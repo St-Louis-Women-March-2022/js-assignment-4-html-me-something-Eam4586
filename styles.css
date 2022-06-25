@@ -3,13 +3,15 @@
 body {
 	width: 100%;
 	max-width: 1024px;
-	margin: 0 auto;
-	background-color: #6c4e81;
-	font-size: 62.5%;
+	margin: 8px;
+	background-color: #ffff;
+	display: block;
+	font-size: 16px;
 }
 
 footer {
 	background-color: #6c4e81;
+	color: rgba(169, 175, 39, 0.724);
 	font-size: 16px;
 	text-align: center;
 	padding: 3em;
@@ -20,6 +22,19 @@ h1 {
 	font-size: 24px;
 }
 
+mainHeading {
+	color: red;
+	font-size: 8px;
+}
+
+#testP {
+	color: green;
+}
+
+.funParagraph {
+	color: green;
+}
+
 h2 {
 	color: 6c4e81;
 	font-size: 16px;
@@ -28,7 +43,7 @@ h2 {
 nav ul {
 	text-align: center;
 	padding: 0;
-	font-size: 16px;
+	font-size: 36px;
 }
 
 nav ul li {
@@ -51,7 +66,7 @@ figure {
   	margin-bottom: 10px;
   	margin-right: 10px;
   	margin-left: 10px;
-  	background-color: 6c4e81;
+  	background-color: #ffff;
 	    }
 
 figcaption {
@@ -67,5 +82,4 @@ img {
   	margin-bottom: 10px;
   	margin-right: 10px;
   	margin-left: 10px;
-  	background-color: 6c4e81;
 	    }
