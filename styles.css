@@ -1,6 +1,6 @@
 /* Write your CSS here! */
 
-body {
+main {
 	width: 100%;
 	max-width: 1024px;
 	margin: 8px;
@@ -22,7 +22,7 @@ h1 {
 	font-size: 24px;
 }
 
-mainHeading {
+#mainHeading {
 	color: red;
 	font-size: 8px;
 }
